@@ -87,11 +87,6 @@ function addinmain(todoList) {
                     <i class=" ci bx bx-check bx-sm"></i>
                 </button>
 
-                <button class="edit btn btn-success">
-                <i class='bx bx-edit'></i>
-                </button>
-
-
                 <button class="delete btn btn-error" >
                     <i class="di bx bx-trash bx-sm"></i>
                 </button>
